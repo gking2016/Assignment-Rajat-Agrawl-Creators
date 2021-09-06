@@ -33,7 +33,7 @@ const cards = [
         "id":6,
         "heading":"6Lorem ipsum dolor sit amet.",
         "heading2":"Lorem ipsum",
-        "src":"./videos/6.mov",
+        "src":"./videos/6.mp4",
     },
 
 ]
